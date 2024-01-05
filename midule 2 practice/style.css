@@ -1,0 +1,150 @@
+#heading {
+    color: rgb(76, 28, 236);
+    text-shadow: 3px 3px rgb(236, 228, 228);
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    /* text-shadow: 10px 10px; */
+    text-decoration: underline rgb(207, 28, 28) 5px;
+    /* background-position: 0cap; */
+    background-image: url("foods.webp");
+    height: 300px;
+}
+
+#search {
+    width: 500px;
+    /* text-align: center; */
+    /* border: 19px solid; */
+}
+
+* {
+    background-color: beige;
+}
+
+.dolor {
+    font-size: 22px;
+    text-align: justify;
+    color: rgba(92, 4, 4, 0.719);
+    border: 5px dotted red;
+    padding: 0px 5px;
+    border-radius: 9px;
+    background-color: aquamarine;
+}
+.rana{
+    border-radius: 10px;
+    border: 5px solid rgb(116, 89, 89);
+   
+    margin: 0px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px red;
+    background-color: aqua !important;
+
+}
+
+.rana p {
+     
+    
+   
+    text-align: justify;
+    color: red;
+    font-size: 23px;
+    background-color: aqua !important;
+}
+
+.color {
+    border: 5px dashed black;
+    border-radius: 10px;
+    text-align: justify;
+    color: rgb(125, 35, 35);
+    font-size: 23px;
+    margin: 50px 0px 50px 0px;
+    padding: 0px 8px;
+    background-color: darkturquoise;
+}
+
+.readmore{
+    border: 5px solid;
+    background-color: yellowgreen;
+}
+
+.food {
+    color: darkcyan;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+
+.img {
+    width: 184px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+
+
+
+.list{
+    color: brown;
+    border: 5px solid green;
+    display:inline-block;
+    /* font-size: 30px; */
+    /* border-radius: 50%; */
+    /* border-spacing: 10px; */
+    /* border-left: 20px; */
+    /* padding-inline-end: 29px; */
+
+}
+
+.first{
+    color: rgb(111, 106, 240);
+    font-size: 35px;
+}
+
+.second{
+    color: rgb(115, 74, 229);
+    font-size: 30px;
+}
+
+.third{
+    color: rgb(20, 8, 241);
+    font-size: 25px;
+}
+
+
+
+#info{
+    color: brown;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+input {
+
+    border: 5px solid goldenrod;
+}
+
+input[type="password"],input[type="email"]{
+    color: red;
+}
+/* input[type="email"]{
+    color: red;
+
+} */
+
+
+
+#textarea {
+    /* border: 5px solid green; */
+    /* box-sizing: border-box; */
+    /* padding: 0px 50px; */
+    /* margin: 0px 706px 0px 0px; */
+    /* height: 300px; */
+    width: 500px;
+    /* background-color: red; */
+}
+
+.amet{
+    background-color: green;
+}
+
+

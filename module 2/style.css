@@ -1,0 +1,29 @@
+
+ /* *{background-color: antiquewhite; */
+  
+
+.header{
+    font-size: larger;
+    background-image:url(' foods.webp');
+    background-size: 300px;
+    
+}
+
+ 
+
+h2{
+    color: rgb(201, 107, 45);
+    text-decoration: underline rgba(255, 0, 0, 0.16);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.blog{
+    margin: 30px;
+    border: 10px solid rgb(155, 206, 34);
+    box-shadow: 10px 10px 20px;
+}
